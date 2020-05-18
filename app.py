@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 18 14:36:18 2020
-
-@author: KUSH
-"""
+# -*- coding: utf-8 -*
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
